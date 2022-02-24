@@ -12,7 +12,7 @@
 	<classpathentry kind="lib" path="C:/Users/adamh/.p2/pool/plugins/org.eclipse.equinox.registry_3.11.100.v20211021-1418.jar" sourcepath="C:/Users/adamh/.p2/pool/plugins/org.eclipse.equinox.registry_3.11.100.v20211021-1418.jar"/>
 	<classpathentry kind="lib" path="C:/Users/adamh/.p2/pool/plugins/org.eclipse.core.runtime_3.24.0.v20210910-0750.jar" sourcepath="C:/Users/adamh/.p2/pool/plugins/org.eclipse.core.runtime_3.24.0.v20210910-0750.jar"/>
 	<classpathentry kind="lib" path="C:/Users/adamh/.p2/pool/plugins/org.eclipse.text_3.12.0.v20210512-1644.jar" sourcepath="C:/Users/adamh/.p2/pool/plugins/org.eclipse.text_3.12.0.v20210512-1644.jar"/>
-	<classpathentry kind="lib" path="/org.eclipse.swt.win32.win32.x86_64/org.eclipse.swt.win32.win32.x86_64_3.118.0.v20211123-0851.jar"/>
+	<classpathentry exported="true" kind="lib" path="/org.eclipse.swt.win32.win32.x86_64/org.eclipse.swt.win32.win32.x86_64_3.118.0.v20211123-0851.jar"/>
 	<classpathentry kind="lib" path="C:/Users/adamh/.p2/pool/plugins/org.eclipse.jface_3.24.0.v20211110-1517.jar" sourcepath="C:/Users/adamh/.p2/pool/plugins/org.eclipse.jface_3.24.0.v20211110-1517.jar"/>
 	<classpathentry kind="lib" path="C:/Users/adamh/.p2/pool/plugins/org.eclipse.jface.text_3.19.0.v20211026-2100.jar" sourcepath="C:/Users/adamh/.p2/pool/plugins/org.eclipse.jface.text_3.19.0.v20211026-2100.jar"/>
 	<classpathentry kind="lib" path="C:/Users/adamh/.p2/pool/plugins/org.eclipse.ui.workbench_3.124.0.v20211116-0651.jar" sourcepath="C:/Users/adamh/.p2/pool/plugins/org.eclipse.ui.workbench_3.124.0.v20211116-0651.jar"/>
